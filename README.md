@@ -1,6 +1,6 @@
 # Simulation-of-Car-Black-Box
 
-The project involves the simulation of a black box for four-wheelers. The code creates a simulation of a normal car. 
+The project involves the simulation of a black box for a car using microcontroller - PIC16F877A. The microcontroller is programmed to resemble the working of a normal car. 
 
 ![](Screenshot%20(56).png)
 
